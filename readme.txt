@@ -9,4 +9,7 @@ Git has a mutable index called stage.
 git status
 git checkout
 aaaaa
+
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
