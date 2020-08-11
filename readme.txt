@@ -10,3 +10,4 @@ git status
 git checkout
 aaaaa
 Creating a new branch is quick AND simple.
+merge branch --no-ff
