@@ -15,3 +15,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 merge branch --no-ff
 --no-ff again
+Git is a free software ..
